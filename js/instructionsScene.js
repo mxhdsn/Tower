@@ -1,0 +1,3 @@
+class InstructionsScene extends BaseScene{
+
+}
